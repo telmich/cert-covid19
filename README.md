@@ -37,6 +37,9 @@ Stand: 20.03.2020 - 23:30Uhr
   - [COVID-19 Fallzahlen in D](https://covid-19.openmedical.de)
   - [Reisewarnung des Auswärtigen Amtes bis Ende
     April](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/covid-19/2296762)
+  - [Echtzeit-Chat zum Thema Coronavirus in (DE, EN, FR,
+    KR)](https://ungleich.ch/u/blog/coronavirus-chats/)
+
 
 ## Checklisten
 
